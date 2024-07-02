@@ -1,8 +1,7 @@
-# React + Vite
+Para correr el proyecto: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+´npm install´
 
-Currently, two official plugins are available:
+´npm run dev´
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Una vez hecho esto, para poder utilizar la app hay que registrarse y luego loggearse con ese usuario
