@@ -1,0 +1,5 @@
+export {Login} from "./Login/Login"
+export {Home} from "./Home/Home"
+export {LibroDetail} from "./LibroDetail/LibroDetail"
+export {AutorHome} from "./AutorHome/AutorHome"
+export {AutorDetail} from "./AutorDetail/AutorDetail"

@@ -1,0 +1,43 @@
+header {
+  background-color: #28a745;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+header h3 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+  background-color: #218838;
+}
